@@ -1,7 +1,7 @@
 # FadingIce
-游戏名称：	FadingIce
-团队编号：	13
-团队名称：	OvO
+游戏名称：	FadingIce  
+团队编号：	13  
+团队名称：	OvO  
 团队成员：	王晶、刘科翰、王彦钊
 
 
